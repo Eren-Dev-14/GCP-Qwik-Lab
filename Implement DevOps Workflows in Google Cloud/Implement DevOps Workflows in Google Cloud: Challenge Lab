@@ -1,9 +1,9 @@
 
 export ZONE=
 
-export CLUSTER_NAME=hello-cluster
+export CLUSTER_NAME=
 
-export REPO=my-repository
+export REPO=
 
 
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/quicklabgsp330.sh
