@@ -2,7 +2,7 @@ Thanks for Visiting
 
 
 
-Task 1:-
+Task 1:  Looks 1 :-
 
 explore: +airports {
      query: start_from_here{
@@ -15,7 +15,7 @@ explore: +airports {
 
 
 
-Task 2:-
+Task 1:  Looks 2:-
 
 explore: +airports {
     query: start_from_here{
@@ -27,7 +27,7 @@ explore: +airports {
 
 
 
-Look 3:-
+Task 1:  Looks 3:-
 
 explore: +flights {
     query: start_from_here{
